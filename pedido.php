@@ -9,7 +9,7 @@
 </head>
 
 <body></br>
-	<a class="btn btn-info" href="http://localhost/eduardo/?page_id=7">Home</a>
+	<a class="btn btn-info" href="http://localhost/eduardo/home.html">Home</a>
 	</br></br>
 	<form action="addPedido.php" method="post" name="form1">
 <?php
